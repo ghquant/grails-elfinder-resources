@@ -34,8 +34,8 @@ Any of the [client configuration option](https://github.com/Studio-42/elFinder/w
 Example : Pass list of elabled commands to client
 
 ```
-		<g:set var="commands" value="['open', 'reload', 'home', 'up', 'back', 'forward', 'download', 'rm', 'rename', 'mkdir', 'mkfile', 'upload', 'info', 'resize', 'short']" />
-		<elfinder:init id="elfinder-container-div" controller="elfinderConnector" commands="${commands}" />		
+<g:set var="commands" value="['open', 'reload', 'home', 'up', 'back', 'forward', 'download', 'rm', 'rename', 'mkdir', 'mkfile', 'upload', 'info', 'resize', 'short']" />
+<elfinder:init id="elfinder-container-div" controller="elfinderConnector" commands="${commands}" />		
 
 ```  
 
