@@ -21,6 +21,7 @@ Optionally, you can include *elfinder-theme* module.
 
 
 __Step 2:__ Initialize elfinder file manager
+
 Plugin provides a custom tag to initialize elfinder file manager instance.
 
 Example
