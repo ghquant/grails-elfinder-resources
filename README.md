@@ -5,7 +5,7 @@ Elfinder file manager integration for Grails
 Plugin provides static resources for [elfinder file manager](http://elfinder.org/)
 
 ### How to use
-* Step 1: * Include elfinder resource bundle in head section of page. 
+__Step 1:__ Include elfinder resource bundle in head section of page. 
 
 ```
 <r:require modules="elfinder" />
@@ -20,7 +20,7 @@ Optionally, you can include *elfinder-theme* module.
 ```
 
 
-* Step 2: * Initialize elfinder file manager
+__Step 2:__ Initialize elfinder file manager
 Plugin provides a custom tag to initialize elfinder file manager instance.
 
 Example
