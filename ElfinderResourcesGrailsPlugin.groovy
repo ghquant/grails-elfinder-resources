@@ -1,5 +1,8 @@
+/**
+ * @author Sudhir Nimavat
+ */
 class ElfinderResourcesGrailsPlugin {
-	def version = "0.1"
+	def version = "2.0.0"
 	def grailsVersion = "1.3 > *"
 	def title = "Elfinder file explorer resources"
 	def author = "Sudhir Nimavat"
